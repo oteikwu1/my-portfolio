@@ -1,0 +1,21 @@
+.btn {
+  padding: 12px 44px;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+  font-weight: 600; 
+  border-radius: 8px;
+  background-color: blue;
+}
+
+.btn-primary {
+    font-size: 1em;
+    background-color: blueviolet;
+    color: #fff;
+    padding: 12px 24px;
+}
+
+.btn-tertiary {
+  background-color: transparent;
+  border: none;
+}
